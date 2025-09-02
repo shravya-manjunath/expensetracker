@@ -9,7 +9,7 @@
     "start": "nodemon server.js"
   },
   "keywords": [],
-  "author": "PRANAV G D",
+  "author": "Shravya",
   "license": "",
   "dependencies": {
     "cors": "^2.8.5",
@@ -23,3 +23,4 @@
     "swagger-autogen": "^2.23.7"
   }
 }
+
